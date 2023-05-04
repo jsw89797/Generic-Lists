@@ -1,0 +1,60 @@
+cs1302-genlistadt:
+total 44
+drwxr-xr-x 3 ugrad  4096 Oct 15 18:05 bin
+drwxr-xr-x 2 ugrad  4096 Oct 15 15:50 lib
+-rw-r--r-- 1 ugrad 26016 Oct 15 15:50 README.md
+-rw-r--r-- 1 ugrad  2021 Oct 22 17:57 rec64655
+-rw-r--r-- 1 ugrad     0 Oct 22 18:03 rec73875
+drwxr-xr-x 3 ugrad  4096 Oct 15 15:51 src
+
+cs1302-genlistadt/bin:
+total 4
+drwxr-xr-x 4 ugrad 4096 Oct 15 18:14 cs1302
+
+cs1302-genlistadt/bin/cs1302:
+total 8
+drwxr-xr-x 2 ugrad 4096 Oct 15 18:05 ce13
+drwxr-xr-x 2 ugrad 4096 Oct 22 17:55 genlist
+
+cs1302-genlistadt/bin/cs1302/ce13:
+total 4
+-rw-r--r-- 1 ugrad 881 Oct 15 18:05 Node.class
+
+cs1302-genlistadt/bin/cs1302/genlist:
+total 52
+-rw-r--r-- 1 ugrad  587 Oct 22 17:55 filtTest.class
+-rw-r--r-- 1 ugrad  578 Oct 22 17:55 FiltTest.class
+-rw-r--r-- 1 ugrad 8076 Oct 22 17:55 LinkedGenList.class
+-rw-r--r-- 1 ugrad 4092 Oct 22 17:55 LinkedGenListTest.class
+-rw-r--r-- 1 ugrad  941 Oct 22 17:55 LinkedIterator.class
+-rw-r--r-- 1 ugrad  707 Oct 22 17:55 mapTest.class
+-rw-r--r-- 1 ugrad  697 Oct 22 17:55 MapTest.class
+-rw-r--r-- 1 ugrad  640 Oct 22 17:55 minTest.class
+-rw-r--r-- 1 ugrad  630 Oct 22 17:55 MinTest.class
+-rw-r--r-- 1 ugrad  899 Oct 22 17:55 Node.class
+-rw-r--r-- 1 ugrad  687 Oct 22 17:55 redTest.class
+-rw-r--r-- 1 ugrad  677 Oct 22 17:55 RedTest.class
+
+cs1302-genlistadt/lib:
+total 4
+-rw-r--r-- 1 ugrad 1671 Oct 15 15:50 genlistadt.jar
+
+cs1302-genlistadt/src:
+total 4
+drwxr-xr-x 3 ugrad 4096 Oct 15 15:51 cs1302
+
+cs1302-genlistadt/src/cs1302:
+total 4
+drwxr-xr-x 2 ugrad 4096 Oct 22 17:56 genlist
+
+cs1302-genlistadt/src/cs1302/genlist:
+total 52
+-rw-r--r-- 1 ugrad   480 Oct 22 17:56 FiltTest.java
+-rw-r--r-- 1 ugrad 17963 Oct 22 17:38 LinkedGenList.java
+-rw-r--r-- 1 ugrad  4864 Oct 22 17:55 LinkedGenListTest.java
+-rw-r--r-- 1 ugrad  1244 Oct 22 03:36 LinkedIterator.java
+-rw-r--r-- 1 ugrad   429 Oct 22 17:44 MapTest.java
+-rw-r--r-- 1 ugrad   632 Oct 22 17:56 MinTest.java
+-rw-r--r-- 1 ugrad  3034 Oct 22 02:17 Node.java
+-rw-r--r-- 1 ugrad   524 Oct 22 17:53 RedTest.java
+/home/ugrads/whitej/cs1302_02/projects/cs1302-genlistadt:/home/work/cs1302a
