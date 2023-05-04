@@ -1,2 +1,2 @@
 # Generic-Lists
-Different generic lists in java
+Different generic made lists in java.
